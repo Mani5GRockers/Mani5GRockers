@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
 
-<b>Skills :</b> <code>Python</code> | <code>XML</code> | <code>Java</code> | <code>PHP</code> | <code>WEB Design</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code>
+<b>Skills :</b> <code>Python</code> | <code>Java</code> | <code>PHP</code> | <code>WEB Design</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> | <code>XML</code>
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">
 
