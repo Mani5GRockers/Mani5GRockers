@@ -4,7 +4,7 @@ I Am Another One Of Those Forkers................
 
 Hope you all enjoy the work.
 
-![snake gif](https://github.com/iamLiquidX/Mani5GRockers/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mani5GRockers/Mani5GRockers/raw/output/github-contribution-grid-snake.svg)
 
 
 ## GitHub Stats 🌟
