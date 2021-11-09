@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+I Am Another One Of Those Forkers................
+
+Hope you all enjoy the work.
+
+![snake gif](https://github.com/iamLiquidX/Mani5GRockers/raw/output/github-contribution-grid-snake.svg)
+
+
+## GitHub Stats 🌟
+
+![LiquidX's github stats](https://github-readme-stats.vercel.app/api?username=Mani5GRockers&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani5GRockers&layout=compact)](https://github.com/Mani5GRockers/github-readme-stats)
+![counter](https://komarev.com/ghpvc/?username=iamLiquidX&style=flat-square)
+
+
+## Social Profiles ♥️
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Mani5GRockers)
+
+
 **Mani5GRockers/Mani5GRockers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
