@@ -81,5 +81,29 @@ Here are some ideas to get you started:
 [patreon]: https://patreon.com/Mani5GRockers
 
 
+# Welcome to My Profile! 👋 
+![https://t.me/Mani5GRockers](https://img.shields.io/badge/telegram-Mani5GRockers-blue)
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mani5GRockers/)
+
+
+
+Q | A
+--- | --- 
+**My Machine**  | `Lenovo legion 5`
+**Editor**  | `Visual Studio Code \|\| IntelliJ `
+**Platforms I develop for** | `Mobile, Web, CLI`
+**Languages I know**  | `C , JS, Python , Kotlin ,Dart,Php`
+**Languages I learning** | `Go, Rust , C++ `
+**2021 learning Goal** | `Advanced Data Structures `
+**2022 learning Goal** | `Blockchain , Devops,Vuejs,Svelte`
+**Skills**  | `REST API ,Android Native Flutter,ReactJs ,Graphql , Database `
+
+
+ ‏‏‎ ‎| ‏‏‎ ‎
+ --- | ---
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Mani5GRockers&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanvikash&theme=radical&layout=compact)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mani5GRockers"></img>
+
 
 
