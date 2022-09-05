@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![LiquidX's github stats](https://github-readme-stats.vercel.app/api?username=Mani5GRockers&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani5GRockers&layout=compact)](https://github.com/Mani5GRockers/github-readme-stats)
-![counter](https://komarev.com/ghpvc/?username=iamLiquidX&style=flat-square)
+![counter](https://komarev.com/ghpvc/?username=Mani5GRockers&style=flat-square)
 
 
 ## Social Profiles ♥️
