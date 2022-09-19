@@ -53,18 +53,6 @@ Here are some ideas to get you started:
 </div>
 ## @Mani5GRockers
 
-- Tech Enthusiast
-- Playing with Android system images 
-- Learning new stuff everyday
-
-### Connect
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][patreon]
-<br>
-
 ### GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&show_icons=true&locale=en" alt="Rahul" /></p>
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Mani5GRockers" /></p>
