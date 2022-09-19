@@ -106,35 +106,6 @@ Q | A
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mani5GRockers"></img>
 
 
-<h1 align="center">Hi <img src="https://github.com/Mani5GRockers/Mani5GRockers/blob/main/Wave.gif" height="55px" width="55px">, I'm S M Mahabub Hossain</h1>
-<h3 align="center">¯\_(ツ)_/¯
-
-Programmer | Content Creator | Learner
-
-?></h3>
-
-- 🔭 I’m currently working on **Android Development**
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **Mani5GRockersplus@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
-
-### Connect with me:
-
-[<img align="left" alt="Mani5GRockers.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="YouTiePie | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="YouTiePie | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="YouTiePie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="YouTiePie | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="Mani5GRockers | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iamSMMH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### 🛠 &nbsp;Tech Stack
@@ -174,6 +145,3 @@ Programmer | Content Creator | Learner
 [instagram]: https://instagram.com/iamSMMH/
 [linkedin]: https://linkedin.com/in/iamSMMH
 [telegram]: https://t.me/Mani5GRockers
-
-
-
