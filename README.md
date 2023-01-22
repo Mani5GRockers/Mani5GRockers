@@ -7,7 +7,7 @@ Hope you all enjoy the work.
 ![snake gif](https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 
 
 ## GitHub Stats 🌟
