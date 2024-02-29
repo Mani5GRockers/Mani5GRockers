@@ -64,9 +64,6 @@ Here are some ideas to get you started:
 [![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Mani5GRockers)
 
 
-**Mani5GRockers/Mani5GRockers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <div align="center">
 <h2>Hey there <img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/mainac/Hi.gif" width="30px">, I'm Mani5GRockers</h2>
 
@@ -143,9 +140,7 @@ Q | A
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br />
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Mani5GRockers.visitor-badge&left_color=blue&right_color=yellow)
-<br />
+### Profile Visitors
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mani5GRockers&show_icons=true&locale=en&layout=compact" alt="S M Mahabub Hossain" /></p>
 
