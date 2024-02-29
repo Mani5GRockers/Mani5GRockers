@@ -1,7 +1,7 @@
 ![Github_header](https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/all_coding.png)
 
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
-<h1 align="center">Hi 👋, I'm HIFI TECH INDIA</h1>
+<h1 align="center">Hi 👋, I'm MANIKANDAN M | HIFI TECH INDIA</h1>
 
 Hope you all enjoy the work.
 
