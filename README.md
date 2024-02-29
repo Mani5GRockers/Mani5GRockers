@@ -1,4 +1,4 @@
-![Github_header](https://user-images.githubusercontent.com/88898454/162613510-d24014b6-b4ea-4f67-ba4a-19b4d956ceab.png)
+![Github_header](https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/all_coding.png)
 
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm HIFI TECH INDIA</h1>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h2>Hey there <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">, I'm Mani5GRockers</h2>
+<h2>Hey there <img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/mainac/Hi.gif" width="30px">, I'm Mani5GRockers</h2>
 
 <div align="center" width="50">
 
@@ -80,13 +80,11 @@ Here are some ideas to get you started:
 <code>I love programming. ❤</code>
 <code>Mani5GRockers lover. 😉</code>
 
-<img src="https://github.com/svr666/svr666/blob/master/gifs/coding.gif" alt="coding ?">
+<img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/coding.gif" alt="coding ?">
 
 <b>Skills :</b> <code>Python</code> | <code>Java</code> | <code>PHP</code> | <code>WEB Design</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> | <code>XML</code>
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">
-
-<br><img src="https://gpvc.arturio.dev/Mani5GRockers" alt="Profile views">
 
 </div>
 ## @Mani5GRockers
