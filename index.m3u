@@ -13,6 +13,8 @@ http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7339.m3u8
 http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7340.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2" tvg-logo="https://docdog.top/logo/countries/india/star-sports-2-in.png" group-title="HIFI TECH INDIA | ROLEX TV",IN: STAR SPORTS 2
 http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: STARS PORTS 2" tvg-logo="https://docdog.top/logo/countries/india/starsports2.png" group-title="ASIA | INDIA VIP",IN: STARS PORTS 2
+http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7345.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-1-in.png" group-title="HIFI TECH INDIA | ROLEX TV",IN: STAR SPORTS SELECT 1
 http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7342.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2" tvg-logo="https://docdog.top/logo/countries/india/star-sports-select-2-in.png" group-title="HIFI TECH INDIA | ROLEX TV",IN: STAR SPORTS SELECT 2
@@ -49,4 +51,16 @@ http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7282.m3u8
 http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7284.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: 3 TAMIL TV" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="HIFI TECH INDIA | ROLEX TV",IN: 3 TAMIL TV
 http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: DAN TAMIL OLI" tvg-logo="https://docdog.top/logo/countries/india/countrypic.png" group-title="HIFI TECH INDIA | ROLEX TV",IN: DAN TAMIL OLI
+http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: IBC TAMIL" tvg-logo="https://docdog.top/logo/countries/india/ibctamil.png" group-title="ASIA | INDIA VIP",IN: IBC TAMIL
+http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: INDIA NEWS" tvg-logo="https://docdog.top/logo/countries/india/india-news-in.png" group-title="ASIA | INDIA VIP",IN: INDIA NEWS
+http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: INDIA TODAY" tvg-logo="https://docdog.top/logo/countries/india/india-today-in.png" group-title="ASIA | INDIA VIP",IN: INDIA TODAY
+http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES" tvg-logo="https://docdog.top/logo/countries/india/star-movies-in.png" group-title="ASIA | INDIA VIP",IN: STAR MOVIES
+http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN LIFE" tvg-logo="https://docdog.top/logo/countries/india/sunlife.png" group-title="ASIA | INDIA VIP",IN: SUN LIFE
+http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7346.m3u8
 
