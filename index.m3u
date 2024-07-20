@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR VIJAY" tvg-logo="https://docdog.top/logo/countries/india/vijay-tv-in.png" group-title="Tamil",IN: STAR VIJAY
 http://vipatdom.top:8080/live/VIP0116170438114745/21704381147353/7344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TAMIL" tvg-logo="https://docdog.top/logo/countries/india/zee-tamil-news-in.png" group-title="ASIA | INDIA VIP",IN: ZEE TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TAMIL" tvg-logo="https://docdog.top/logo/countries/india/zee-tamil-news-in.png" group-title="Tamil",IN: ZEE TAMIL
 http://vipatdom.top:8080/live/VIP0116170438114745/21704381147353/7404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: SUN TV" tvg-logo="https://docdog.top/logo/countries/india/suntv.png" group-title="ASIA | INDIA VIP",IN: SUN TV
+#EXTINF:-1 tvg-id="" tvg-name="IN: SUN TV" tvg-logo="https://docdog.top/logo/countries/india/suntv.png" group-title="Tamil",IN: SUN TV
 http://vipatdom.top:8080/live/VIP0116170438114745/21704381147353/7347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS TAMIL" tvg-logo="https://docdog.top/logo/countries/india/colors-in.png" group-title="ASIA | INDIA VIP",IN: COLORS TAMIL
+#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS TAMIL" tvg-logo="https://docdog.top/logo/countries/india/colors-in.png" group-title="Tamil",IN: COLORS TAMIL
 http://vipatdom.top:8080/live/VIP0116170438114745/21704381147353/7129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR VIJAY" tvg-logo="https://docdog.top/logo/countries/india/vijay-tv-in.png" group-title="Tamil",IN: STAR VIJAY
 http://vipatdom.top:8080/live/VIP0123170440511245/61704405112835/7344.m3u8
