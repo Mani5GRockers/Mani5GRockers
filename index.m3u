@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|IN| Star Vijay HD" tvg-logo="" group-title="INDIA",|IN| Star Vijay HD
+http://tv.pro-ott.com:25443/live/7548548556/18GTHMP7HG/133760.ts
+#EXTINF:-1 tvg-id="" tvg-name="|IN| Discovery Tamil HD" tvg-logo="" group-title="INDIA",|IN| Discovery Tamil HD
+http://tv.pro-ott.com:25443/live/7548548556/18GTHMP7HG/133608.ts
+#EXTINF:-1 tvg-id="" tvg-name="IN Discovery Tamil HD" tvg-logo="" group-title="INDIA",IN Discovery Tamil HD
+http://tv.pro-ott.com:25443/live/7548548556/18GTHMP7HG/133609.ts
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR VIJAY" tvg-logo="https://docdog.top/logo/countries/india/vijay-tv-in.png" group-title="Tamil",IN: STAR VIJAY
 http://vipatdom.top:8080/live/VIP0116170438114745/21704381147353/7344.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TAMIL" tvg-logo="https://docdog.top/logo/countries/india/zee-tamil-news-in.png" group-title="Tamil",IN: ZEE TAMIL
