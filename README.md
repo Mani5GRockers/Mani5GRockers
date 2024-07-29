@@ -103,7 +103,6 @@ Here are some ideas to get you started:
 <br>
 
 ### GitHub Info
-<p><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 
 [github]: https://github.com/sponsors/Mani5GRockers
 [twitter]: https://twitter.com/Mani5GRockers
