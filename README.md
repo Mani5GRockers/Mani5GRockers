@@ -63,29 +63,30 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&show_icons=true&locale=en" alt="S M Mahabub Hossain" /></p>
 
-[website]: https://Mani5GRockers.com
-[facebook]: https://facebook.com/iamSMMH
-[twitter]: https://twitter.com/iamSMMH
-[youtube]: https://youtube.com/YouTiePie
-[instagram]: https://instagram.com/iamSMMH/
-[linkedin]: https://linkedin.com/in/iamSMMH
-[telegram]: https://t.me/Mani5GRockers
+[website]: https://hifitechindia.com
+[website]: https://hifimarket.in
+[facebook]: https://facebook.com/hifimass
+[twitter]: https://twitter.com/hifitechindia1
+[youtube]: https://youtube.com/@hifi_tech_india
+[instagram]: https://instagram.com/hifi_tech_india/
+[linkedin]: https://linkedin.com/in/hifitechindia
+[telegram]: https://t.me/hifitechindia
 
 
 ## Social Profiles ♥️
 
 
-[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Mani5GRockers)
+[![Telegram](https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/hifitechindia)
 
 
 <div align="center">
-<h2>Hey there <img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/mainac/Hi.gif" width="30px">, I'm Mani5GRockers</h2>
+<h2>Hey there <img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/mainac/Hi.gif" width="30px">, I'm MANIKANDAN M</h2>
 
 <div align="center" width="50">
 
 <code>I'm a B.COM Student. 😎</code>
 <code>I love programming. ❤</code>
-<code>Mani5GRockers lover. 😉</code>
+<code>IT lover. 😉</code>
 
 <img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/coding.gif" alt="coding ?">
 
@@ -106,8 +107,8 @@ Here are some ideas to get you started:
 
 [github]: https://github.com/sponsors/Mani5GRockers
 [twitter]: https://twitter.com/Mani5GRockers
-[instagram]: https://instagram.com/Mani5GRockers 
-[telegram]: https://t.me/Mani5GRockers
+[instagram]: https://instagram.com/hifi_tech_india/ 
+[telegram]: https://t.me/hifitechindia
 [patreon]: https://patreon.com/Mani5GRockers
 
 
@@ -119,7 +120,7 @@ Here are some ideas to get you started:
 
 Q | A
 --- | --- 
-**My Machine**  | `Lenovo legion 5`
+**My Machine**  | `Lenovo legion 7`
 **Editor**  | `Visual Studio Code \|\| IntelliJ `
 **Platforms I develop for** | `Mobile, Web, CLI`
 **Languages I know**  | `C , JS, Python , Kotlin ,Dart,Php`
