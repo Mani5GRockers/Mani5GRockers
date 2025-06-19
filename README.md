@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 Q | A
 --- | --- 
-**My Machine**  | `Lenovo legion 7`
+**My Machine**  | `Apple Macbook Pro M2 Chip (Apple Silicon)`
 **Editor**  | `Visual Studio Code \|\| IntelliJ `
 **Platforms I develop for** | `Mobile, Web, CLI`
 **Languages I know**  | `C , JS, Python , Kotlin ,Dart,Php`
