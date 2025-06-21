@@ -3,6 +3,33 @@
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm MANIKANDAN M | HIFI TECH INDIA</h1>
 
+.. image:: https://github.com/arvidn/libtorrent/actions/workflows/windows.yml/badge.svg
+    :target: https://github.com/arvidn/libtorrent/actions/workflows/windows.yml
+
+.. image:: https://github.com/arvidn/libtorrent/actions/workflows/macos.yml/badge.svg
+    :target: https://github.com/arvidn/libtorrent/actions/workflows/macos.yml
+
+.. image:: https://github.com/arvidn/libtorrent/actions/workflows/linux.yml/badge.svg
+    :target: https://github.com/arvidn/libtorrent/actions/workflows/linux.yml
+
+.. image:: https://github.com/arvidn/libtorrent/actions/workflows/python.yml/badge.svg
+    :target: https://github.com/arvidn/libtorrent/actions/workflows/python.yml
+
+.. image:: https://ci.appveyor.com/api/projects/status/w7teauvub5813mew/branch/RC_2_0?svg=true
+    :target: https://ci.appveyor.com/project/arvidn/libtorrent/branch/RC_2_0
+
+.. image:: https://api.cirrus-ci.com/github/arvidn/libtorrent.svg?branch=RC_2_0
+    :target: https://cirrus-ci.com/github/arvidn/libtorrent
+
+.. image:: https://oss-fuzz-build-logs.storage.googleapis.com/badges/libtorrent.svg
+    :target: https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&q=proj%3Alibtorrent&can=1
+
+.. image:: https://codecov.io/github/arvidn/libtorrent/coverage.svg?branch=RC_2_0
+    :target: https://codecov.io/github/arvidn/libtorrent?branch=RC_2_0&view=all#sort=missing&dir=desc
+
+.. image:: https://www.openhub.net/p/rasterbar-libtorrent/widgets/project_thin_badge.gif
+    :target: https://www.openhub.net/p/rasterbar-libtorrent
+
 Hope you all enjoy the work.
 
 ![snake gif](https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/github-contribution-grid-snake.svg)
