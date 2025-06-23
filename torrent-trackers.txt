@@ -1,5 +1,7 @@
+udp://server.hifitechindia.com:1333/announce
+
 udp://tracker.hifitechindia.com:6969/announce
 
-udp://tracker.opentrackr.org:1337/announce
+udp://tracker.hifimarket.in:1337/announce
 
-udp://tracker.hifitechindia.com:1337/announce
+udp://tracker.opentrackr.org:1337/announce
