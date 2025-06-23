@@ -115,8 +115,6 @@ Here are some ideas to get you started:
 
 # Welcome to My Profile! 👋 
 ![https://t.me/Mani5GRockers](https://img.shields.io/badge/telegram-Mani5GRockers-blue)
- ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mani5GRockers/)
-
 
 
 Q | A
@@ -129,13 +127,6 @@ Q | A
 **2021 learning Goal** | `Advanced Data Structures `
 **2022 learning Goal** | `Blockchain , Devops,Vuejs,Svelte`
 **Skills**  | `REST API ,Android Native Flutter,ReactJs ,Graphql , Database `
-
-
- ‏‏‎ ‎| ‏‏‎ ‎
- --- | ---
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mani5GRockers"></img>
-
 
 <br />
 
