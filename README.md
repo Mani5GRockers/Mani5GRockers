@@ -102,7 +102,6 @@ Here are some ideas to get you started:
 ### GitHub Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&show_icons=true&locale=en" alt="Manikandan" /></p>
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Mani5GRockers" /></p>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=Mani5GRockers&bg_color=FFFFFF&color=FF0000&line=F85D7F&point=1F222E&hide_border=true" /></p>
 <br>
 
 ### GitHub Info
