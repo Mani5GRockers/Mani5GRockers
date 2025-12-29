@@ -1,3 +1,6 @@
+/home/cloudbase.store/public_html/templates/kohost/stats.tpl
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
