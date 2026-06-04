@@ -9,3 +9,192 @@ http://torrent.stream.hifitechindia.com:8080/api/torrent/serve/5349f5a31146de6b8
 http://fortv.cc:8080/54435673/54435673/123530
 #EXTINF:-1 tvg-id="" tvg-name="Movies" tvg-logo="https://picsxtra.com/images/2025/07/17/MV5BMTZlMDliZWUtZDMzOC00MDdjLTgxMTAtMDlhYmU1ODkwMDkyXkEyXkFqcGc._V1_FMjpg_UX1000_.md.jpg" group-title="Tamil FM",Tamil FM 2
 http://fortv.cc:8080/54435673/54435673/123341
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | News18 Tamil Nadu" tvg-logo="s:1:/images/5c1992c1c9cd68ab2ab32e9816d02ad3.jpg" group-title="IN | TAMIL",IN-TAM | News18 Tamil Nadu
+http://ottsolutions.club:80/live/24659607/01077337/112083.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | TS HUNGAMA TV" tvg-logo="s:1:/images/HjUNyHDk1GXCeTnp_TSKC9KWdMoHmeouKa0VTvsbFK42RDgLpI-AXZr6cuSVD3Ch.jpg" group-title="IN | TAMIL",IN-TAM | TS HUNGAMA TV
+http://ottsolutions.club:80/live/24659607/01077337/112084.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | J Movies" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jaya_in_movie.png" group-title="IN | TAMIL",IN-TM | J Movies
+http://ottsolutions.club:80/live/24659607/01077337/202578.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="T News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqMKxbMnqsD4eKoDjoht8MLSMHK2D1Oo5jxg&s" group-title="IN | TAMIL",T News
+http://ottsolutions.club:80/live/24659607/01077337/264456.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Zee Tamil News HD" tvg-logo="" group-title="IN | TAMIL",Zee Tamil News HD
+http://ottsolutions.club:80/live/24659607/01077337/311007.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="SHAKTHI-TV" tvg-logo="s:1:/images/615a2819ddcb7d0c42b2dda3a41cde9c.png" group-title="IN | TAMIL",SHAKTHI-TV
+http://ottsolutions.club:80/live/24659607/01077337/16635.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | JOTHI TV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jothi-tv-in.png" group-title="IN | TAMIL",IN-TAM | JOTHI TV
+http://ottsolutions.club:80/live/24659607/01077337/209320.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | SEITHIGAL" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_seithigal.png" group-title="IN | TAMIL",IN-TAM | SEITHIGAL
+http://ottsolutions.club:80/live/24659607/01077337/209334.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | D2H NICK" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGwYMgyeHObSz8EwgJnqrRXQ.png" group-title="IN | TAMIL",IN-TG | D2H NICK
+http://ottsolutions.club:80/live/24659607/01077337/59949.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS SONIC" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGbVgBHD7fpFlWKdt0WQUfeQ.png" group-title="IN | TAMIL",IN-TM | TS SONIC
+http://ottsolutions.club:80/live/24659607/01077337/59948.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | D2H DISNEY JUNIOR" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGY7pjxvY859TNyv8nRZtk_r29ncH2sw9hR9mfABqEAB8.png" group-title="IN | TAMIL",IN-TG | D2H DISNEY JUNIOR
+http://ottsolutions.club:80/live/24659607/01077337/59946.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | D2H CARTOON NETWORK" tvg-logo="s:1:/images/r2pcQoljnXZZNRDBoCBNaND0lN_GURqmaZ93rpwZfq-GOPYAql32xfzEl1Fj_6tQb8coA7pGfeQpSU6m_bTlmmPcH648j4iZ6RtuFZO661_ieD_AN0TmsWHJkxm4S-fwzua3dZhtfUQqNA8yKcNFRQ.png" group-title="IN | TAMIL",IN-TG | D2H CARTOON NETWORK
+http://ottsolutions.club:80/live/24659607/01077337/59944.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM| TS RAJ NEWS" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGw83OMKyn2humj7ri6hVQOQ.png" group-title="IN | TAMIL",IN-TM| TS RAJ NEWS
+http://ottsolutions.club:80/live/24659607/01077337/59942.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM| D2H RAJ MUSIX" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG-ED7_I6sJzUWavdY59F6-A.png" group-title="IN | TAMIL",IN-TM| D2H RAJ MUSIX
+http://ottsolutions.club:80/live/24659607/01077337/59941.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | TS KUSHI TV HD" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG-9WvVKBFuEp6t1HuFvd8SQ.png" group-title="IN | TAMIL",IN-TG | TS KUSHI TV HD
+http://ottsolutions.club:80/live/24659607/01077337/59940.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | D2H ETV FHD" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG3Duj-v7j2OFjcbv4dLvTRw.png" group-title="IN | TAMIL",IN-TG | D2H ETV FHD
+http://ottsolutions.club:80/live/24659607/01077337/59937.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | TS ETV ABHIRUCHI" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGWzJMIx4p-dj6Ig1IjBD7mz5saRCInVUrS_n5L7MHIgY.png" group-title="IN | TAMIL",IN-TAM | TS ETV ABHIRUCHI
+http://ottsolutions.club:80/live/24659607/01077337/59936.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | TS DD SAPTAGIRI" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG4rdh9OcAFu8Lz7ZIfrSZOnx_MunQme2hZdpHAJXeZao.png" group-title="IN | TAMIL",IN-TG | TS DD SAPTAGIRI
+http://ottsolutions.club:80/live/24659607/01077337/59935.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Verbum TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsdktGTtTnc2n-Tp4GJFVemk.png" group-title="IN | TAMIL",Verbum TV
+http://ottsolutions.club:80/live/24659607/01077337/58779.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vasantham TV" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWW9TJXOHMs5kpi6JWPFHgyhbImV4AkNRV6QufAG3-h6Y45K54F9hFoRjGu2AYZ9RMY.jpg" group-title="IN | TAMIL",Vasantham TV
+http://ottsolutions.club:80/live/24659607/01077337/58777.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vasanth TV" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWBChtsfiMuLssBZgGIFctxt3ISYrxbkSIG-Ec6ZHSVHzMn_s2AA4iElFUKwBkDsRw.png" group-title="IN | TAMIL",Vasanth TV
+http://ottsolutions.club:80/live/24659607/01077337/58775.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Vaanavil TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsfNuFSbG-ezrAnw_KP80MiM.png" group-title="IN | TAMIL",Vaanavil TV
+http://ottsolutions.club:80/live/24659607/01077337/58774.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Tamil Vision TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsT9blG8hfndvtciS385Ubx4.png" group-title="IN | TAMIL",Tamil Vision TV
+http://ottsolutions.club:80/live/24659607/01077337/58772.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sooriyan TV" tvg-logo="s:1:/images/dsAt8cMDBjbP3mVNdeYR4QU5qTOSY3E1-V5FFVBmMWM-uo4o9rbZW7RwBknnmRKc.jpg" group-title="IN | TAMIL",Sooriyan TV
+http://ottsolutions.club:80/live/24659607/01077337/58770.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sivan TV" tvg-logo="s:1:/images/dsAt8cMDBjbP3mVNdeYR4WgcBKZ9K7D8icqTUtaan6Zlv4hmbJK9AAKNIRdXif2W.png" group-title="IN | TAMIL",Sivan TV
+http://ottsolutions.club:80/live/24659607/01077337/58769.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="NLM TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBseJJ5DF_e-ZIK16MasaAK4U.png" group-title="IN | TAMIL",NLM TV
+http://ottsolutions.club:80/live/24659607/01077337/58761.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MTA6 Asia" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsYHmCFI04E8pSu7L2usDfMs.png" group-title="IN | TAMIL",MTA6 Asia
+http://ottsolutions.club:80/live/24659607/01077337/58757.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Moon TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsVHn29tFkk8D4r5QL-QPC68.png" group-title="IN | TAMIL",Moon TV
+http://ottsolutions.club:80/live/24659607/01077337/58756.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="MNTV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsTl1v8UtyHldrs542MhLlJI.png" group-title="IN | TAMIL",MNTV
+http://ottsolutions.club:80/live/24659607/01077337/58754.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Mega TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsUoh1kXUpAxQR1zSQHDk5HI.png" group-title="IN | TAMIL",Mega TV
+http://ottsolutions.club:80/live/24659607/01077337/58752.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Isai Aruvi" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsfDAsGW-Dj4GktrAj8Utuqk.png" group-title="IN | TAMIL",Isai Aruvi
+http://ottsolutions.club:80/live/24659607/01077337/58748.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Imayam" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsRgWoCQZLWC19z2qns290tc.png" group-title="IN | TAMIL",Imayam
+http://ottsolutions.club:80/live/24659607/01077337/58747.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="EET TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsTD_bSMU-Lk2ZXWYAp93FHc.png" group-title="IN | TAMIL",EET TV
+http://ottsolutions.club:80/live/24659607/01077337/58746.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Blessing TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsX2ygLhUQ2oY9orwhRWsy4k.png" group-title="IN | TAMIL",Blessing TV
+http://ottsolutions.club:80/live/24659607/01077337/58745.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="AUS Tamil TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsfsxa27oTEYzjIlO3fF47Yc.png" group-title="IN | TAMIL",AUS Tamil TV
+http://ottsolutions.club:80/live/24659607/01077337/58744.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS DISNEY JUNIOR" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGY7pjxvY859TNyv8nRZtk_r29ncH2sw9hR9mfABqEAB8.png" group-title="IN | TAMIL",IN-TM | TS DISNEY JUNIOR
+http://ottsolutions.club:80/live/24659607/01077337/58572.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H SONIC" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGbVgBHD7fpFlWKdt0WQUfeQ.png" group-title="IN | TAMIL",IN-TM | D2H SONIC
+http://ottsolutions.club:80/live/24659607/01077337/58571.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H NICK" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGwYMgyeHObSz8EwgJnqrRXQ.png" group-title="IN | TAMIL",IN-TM | D2H NICK
+http://ottsolutions.club:80/live/24659607/01077337/58570.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H POGO" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG2SjEGNAw2CmNTY9eUnBepA.png" group-title="IN | TAMIL",IN-TM | D2H POGO
+http://ottsolutions.club:80/live/24659607/01077337/58569.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H DISCOVERY KIDS" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGpPN7HGR8udiMTgBMCgzWTmfnr_vanPMwaQrnGMkl9w0.png" group-title="IN | TAMIL",IN-TM | D2H DISCOVERY KIDS
+http://ottsolutions.club:80/live/24659607/01077337/58567.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H DISNEY CHANNEL" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGh3Y9c_r7hR2zl7DvvnAkrg.png" group-title="IN | TAMIL",IN-TM | D2H DISNEY CHANNEL
+http://ottsolutions.club:80/live/24659607/01077337/58566.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H CARTOON NETWORK" tvg-logo="s:1:/images/r2pcQoljnXZZNRDBoCBNaND0lN_GURqmaZ93rpwZfq-GOPYAql32xfzEl1Fj_6tQb8coA7pGfeQpSU6m_bTlmmPcH648j4iZ6RtuFZO661_ieD_AN0TmsWHJkxm4S-fwzua3dZhtfUQqNA8yKcNFRQ.png" group-title="IN | TAMIL",IN-TM | D2H CARTOON NETWORK
+http://ottsolutions.club:80/live/24659607/01077337/58564.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H ANIMAL PLANET FHD" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGp1ePGUxnNbgnFjiNObHsJ6pufs_PAZdAcA0sn-YMNug.png" group-title="IN | TAMIL",IN-TM | D2H ANIMAL PLANET FHD
+http://ottsolutions.club:80/live/24659607/01077337/58561.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H SONY BBC EARTH FHD" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGC9enNPNhMvtkmwF_21fPvToGVYglH-GWEkn5RciC4Is.png" group-title="IN | TAMIL",IN-TM | D2H SONY BBC EARTH FHD
+http://ottsolutions.club:80/live/24659607/01077337/58560.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS HISTORY TV18 FHD" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGmeVj2KalHW62QNBsAS8-MOXUiArLbPwco3Z8Mui0A4c.png" group-title="IN | TAMIL",IN-TM | TS HISTORY TV18 FHD
+http://ottsolutions.club:80/live/24659607/01077337/58559.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H DISCOVERY FHD" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGkWPIIn4xtV-PTGrTsyMUJqnjaXd7-pUBWYqsD9Jktqo.png" group-title="IN | TAMIL",IN-TM | D2H DISCOVERY FHD
+http://ottsolutions.club:80/live/24659607/01077337/58558.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H NAT GEO WILD FHD" tvg-logo="s:1:/images/Gb4eVgOeIeTeutfsdD1m4jDPYWaIi3jb720sLVqqHux0wLLaJk-m9tnPapiE36hnuokNcAfPrsMob-mRC0c4Ak5IThBlSxMZYR01sB5WFyNOF_3XEWM8MhHHI9K8uwiEbfOvLFvv93ZyCucJBBWfnvYutUCGp7cTS1Qe_1xfydQ.png" group-title="IN | TAMIL",IN-TM | D2H NAT GEO WILD FHD
+http://ottsolutions.club:80/live/24659607/01077337/58557.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H NAT GEO FHD" tvg-logo="s:1:/images/Gb4eVgOeIeTeutfsdD1m4jDPYWaIi3jb720sLVqqHux0wLLaJk-m9tnPapiE36hnuokNcAfPrsMob-mRC0c4Ak5IThBlSxMZYR01sB5WFyNOF_3XEWM8MhHHI9K8uwiEbfOvLFvv93ZyCucJBBWfnvYutUCGp7cTS1Qe_1xfydQ.png" group-title="IN | TAMIL",IN-TM | D2H NAT GEO FHD
+http://ottsolutions.club:80/live/24659607/01077337/58556.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | FD DD Podhigai" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGGzt2qSev3lO-H5jIhm8k6arAflDLOptTZJFYIv1tkCo.png" group-title="IN | TAMIL",IN-TM | FD DD Podhigai
+http://ottsolutions.club:80/live/24659607/01077337/58553.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | ADITHYA TV" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGYIQOBEbutRLk28TykwtaAb0HLMJ15EOBZ6QvYwb1i1Q.png" group-title="IN | TAMIL",IN-TM | ADITHYA TV
+http://ottsolutions.club:80/live/24659607/01077337/58551.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS SIRIPPOLI" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGj8-ImUAEAUb1Utcj-qwch9czMWCY0td-iwslTvuKSxI.png" group-title="IN | TAMIL",IN-TM | TS SIRIPPOLI
+http://ottsolutions.club:80/live/24659607/01077337/58550.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS MEGA MUSIQ" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGheAZDrJKTQLWQILT3XpolyLXwxyKFiofHzyL8-DMB3I.png" group-title="IN | TAMIL",IN-TM | TS MEGA MUSIQ
+http://ottsolutions.club:80/live/24659607/01077337/58549.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H 7S MUSIC" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGjyePRs05yk7QILP6cSNaTQ.png" group-title="IN | TAMIL",IN-TM | D2H 7S MUSIC
+http://ottsolutions.club:80/live/24659607/01077337/58548.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H RAJ MUSIX" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4js2q-xB-0JGklT59KmNU8BKk0WSjTNC3q76NuTBgziMgw.png" group-title="IN | TAMIL",IN-TM | D2H RAJ MUSIX
+http://ottsolutions.club:80/live/24659607/01077337/58547.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | 3 TAMIL TV" tvg-logo="s:1:/images/VaGeFcRltr1Dqq0LL4h_xbvTdmX-UqSHqVoR1VPQyh7IVzVmZI8oETSY85vLmKmeY_oACtJBCzo7bhifSSLiW4w8LAztELxnF7TVI6R0i6Y.png" group-title="IN | TAMIL",IN-TM | 3 TAMIL TV
+http://ottsolutions.club:80/live/24659607/01077337/58545.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H MURASU TV" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4js5QS9DdrZj06DxEGRz1ZNic5u1GDh89u1r-lhsERpeng.png" group-title="IN | TAMIL",IN-TM | D2H MURASU TV
+http://ottsolutions.club:80/live/24659607/01077337/58544.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H RAJ DIGITAL PLUS" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGvBHNxPaCMDBkgHAz71wGX5sJKO7ApWdiVEtZ3ooUl40.png" group-title="IN | TAMIL",IN-TM | D2H RAJ DIGITAL PLUS
+http://ottsolutions.club:80/live/24659607/01077337/58542.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H RAJ  TV" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4ju6wEUTMwCuyUYB2AKZMaPF.png" group-title="IN | TAMIL",IN-TM | D2H RAJ  TV
+http://ottsolutions.club:80/live/24659607/01077337/58541.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS &FLIX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSER00FnJAi_l3_yLNVUkjzNeeFhm0lZp-0tQ&s" group-title="IN | TAMIL",IN-TM | TS &FLIX FHD
+http://ottsolutions.club:80/live/24659607/01077337/58538.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="SONYPIXHD.in" tvg-name="IN-TM | D2H SONY PIX FHD" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4jv3z8G7trRUbL2Y4ejGLyjP8i41WgFPR8znp9IlikEJZQ.png" group-title="IN | TAMIL",IN-TM | D2H SONY PIX FHD
+http://ottsolutions.club:80/live/24659607/01077337/58537.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS KTV FHD" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUMODZ92z3JIOylMeSfskIKu.png" group-title="IN | TAMIL",IN-TM | TS KTV FHD
+http://ottsolutions.club:80/live/24659607/01077337/58532.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS COLORS HD" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4jvHK2m02gHMLE0b6XDYSMWfjk34bEBz1AtCOht76EtpIg.png" group-title="IN | TAMIL",IN-TM | TS COLORS HD
+http://ottsolutions.club:80/live/24659607/01077337/58528.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H SONY YAY" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGHibI8PUhoia70Uwh_Dy5Y3xVQ0k-Vrvt6UOy4CbOzz0.png" group-title="IN | TAMIL",IN-TM | D2H SONY YAY
+http://ottsolutions.club:80/live/24659607/01077337/58565.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS SUN NEWS" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGEPV4HCb0IeLND3lQVwHnbw.png" group-title="IN | TAMIL",IN-TM | TS SUN NEWS
+http://ottsolutions.club:80/live/24659607/01077337/58552.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H SUN MUSIC FHD" tvg-logo="https://i.imgur.com/j8qxtZZ.png" group-title="IN | TAMIL",IN-TM | D2H SUN MUSIC FHD
+http://ottsolutions.club:80/live/24659607/01077337/58546.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS SUN LIFE HD" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4jtXC7mSk-pcbUcE3VhQkNmH.png" group-title="IN | TAMIL",IN-TM | TS SUN LIFE HD
+http://ottsolutions.club:80/live/24659607/01077337/58535.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H SUN TV FHD" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUNV1rdb5JmEc5tOura0AGHmttl_E9ZfEXqg7QI-ZM9Wag.png" group-title="IN | TAMIL",IN-TM | D2H SUN TV FHD
+http://ottsolutions.club:80/live/24659607/01077337/58531.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | Vijay Takkar" tvg-logo="s:1:/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dS-li5rejs9J1ExoVVrFiEvxtpAl34D1E95txDfctJy5Q.png" group-title="IN | TAMIL",IN-TAM | Vijay Takkar
+http://ottsolutions.club:80/live/24659607/01077337/112097.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS VIJAY SUPER FHD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="IN | TAMIL",IN-TM | TS VIJAY SUPER FHD
+http://ottsolutions.club:80/live/24659607/01077337/58536.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H STAR VIJAY FHD" tvg-logo="https://i.imgur.com/dZtJHAe.png" group-title="IN | TAMIL",IN-TM | D2H STAR VIJAY FHD
+http://ottsolutions.club:80/live/24659607/01077337/58530.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS ZEE TAMIL FHD" tvg-logo="s:1:/images/jLy_-ly6JB1q67lc5PWdTTCnoNBfg19cSZroN3SwQjmqaUVT-nmd6STZEmP0pPcn7Fu7IRWhy7lnihG_1gO4S7BX41t-X99XfNKt8zn-ZTfTl132A_IKhv5foTLHBA5wRwWIgDENIKl3snYWuf2WdMd202BPNS5DZQVfaG1zH6E-Idyb3zanUbK3_Id7HiAiNbmlo2F0kvxZyEmPjPlRsHczjMhHpSXYvGib3CFB5aM.png" group-title="IN | TAMIL",IN-TM | TS ZEE TAMIL FHD
+http://ottsolutions.club:80/live/24659607/01077337/58529.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Zee Thirai HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Zee_Thirai.png/revision/latest/scale-to-width-down/250?cb=20200324034033" group-title="IN | TAMIL",Zee Thirai HD
+http://ottsolutions.club:80/live/24659607/01077337/269825.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | Colors Tamil HD" tvg-logo="https://www.lyngsat.com/logo/tv/cc/colors-tamil-in-uk.png" group-title="IN | TAMIL",IN-TAM | Colors Tamil HD
+http://ottsolutions.club:80/live/24659607/01077337/209341.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS  JAYA TV HD" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4jv0CwIfiVDCXovp2EnVIiYllLFdKuvy4DrES7BcazYnqg.png" group-title="IN | TAMIL",IN-TM | TS  JAYA TV HD
+http://ottsolutions.club:80/live/24659607/01077337/58534.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS JAYA MAX" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4jv4JyZdZiOxhSHhaTgKqZrZLrmsIEHdMePQNh1vUGhpJg.png" group-title="IN | TAMIL",IN-TM | TS JAYA MAX
+http://ottsolutions.club:80/live/24659607/01077337/58540.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | TS JAYA PLUS" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4jtDrZv4-dm3zDFmPQSg7PZYk4uVQAvTLRtVTEsnR5lNkA.png" group-title="IN | TAMIL",IN-TM | TS JAYA PLUS
+http://ottsolutions.club:80/live/24659607/01077337/58539.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | TS KTV HD" tvg-logo="https://i.imgur.com/G4fFx53.png" group-title="IN | TAMIL",IN-TAM | TS KTV HD
+http://ottsolutions.club:80/live/24659607/01077337/227727.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Kalaignar Chithiram" tvg-logo="s:1:/images/Y_iLp5zM1z0Hv5o0voAY43gZWms8T5YIsuMWOBrHoUMfLtHSj6fyBafrhwTXWw52-J8ESvDrwzxP_Gbq19mYsQ.png" group-title="IN | TAMIL",Kalaignar Chithiram
+http://ottsolutions.club:80/live/24659607/01077337/206242.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | KALAIGNAR Chitram" tvg-logo="s:1:/images/UXtkyGhDugBYWGJv-P51osDDA_GvRfWm19gSBVwU4juj-QRT8FjzNlBqqa1Qb11GreZt0bseryugXd9fLJKZog.png" group-title="IN | TAMIL",IN-TM | KALAIGNAR Chitram
+http://ottsolutions.club:80/live/24659607/01077337/58533.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="KALAIGNAR TV" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kalaignar_tv_in.png" group-title="IN | TAMIL",KALAIGNAR TV
+http://ottsolutions.club:80/live/24659607/01077337/8591.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="FD | DD Tamil" tvg-logo="s:1:/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dTTlJz_QB8NgJnosqiYL3u4HhBtFYaMDdZD6oIyhQzwjA.png" group-title="IN | TAMIL",FD | DD Tamil
+http://ottsolutions.club:80/live/24659607/01077337/129614.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Polimer TV" tvg-logo="https://i.imgur.com/BTYagXd.png" group-title="IN | TAMIL",Polimer TV
+http://ottsolutions.club:80/live/24659607/01077337/261783.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TAM | Polimer News" tvg-logo="https://www.lyngsat.com/logo/tv/pp/polimer_in_news.png" group-title="IN | TAMIL",IN-TAM | Polimer News
+http://ottsolutions.club:80/live/24659607/01077337/209347.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Thanthi TV" tvg-logo="https://www.lyngsat.com/logo/tv/tt/thanthi_tv_in.png" group-title="IN | TAMIL",Thanthi TV
+http://ottsolutions.club:80/live/24659607/01077337/265289.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H D TAMIL" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGkJxrmad2tHrsGGA88JzoYw.png" group-title="IN | TAMIL",IN-TM | D2H D TAMIL
+http://ottsolutions.club:80/live/24659607/01077337/58554.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Sirippoli TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg" group-title="IN | TAMIL",Sirippoli TV
+http://ottsolutions.club:80/live/24659607/01077337/209343.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Madha TV" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsYpqMQNj05aREoW1WQHSi_M.png" group-title="IN | TAMIL",Madha TV
+http://ottsolutions.club:80/live/24659607/01077337/58750.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TM | D2H CHUTTI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Chutti_TV.jpg/revision/latest?cb=20190122082451" group-title="IN | TAMIL",IN-TM | D2H CHUTTI TV
+http://ottsolutions.club:80/live/24659607/01077337/58563.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | D2H TV9 TELUGU FHD" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGWwc6J_CWwA66v-jI97CuhnevfTV_5Nhnfqox3Vr7PfQ.png" group-title="IN | TAMIL",IN-TG | D2H TV9 TELUGU FHD
+http://ottsolutions.club:80/live/24659607/01077337/59943.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Puthiya Thalaimurai" tvg-logo="" group-title="IN | TAMIL",Puthiya Thalaimurai
+http://ottsolutions.club:80/live/24659607/01077337/302260.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IBC Tamil" tvg-logo="" group-title="IN | TAMIL",IBC Tamil
+http://ottsolutions.club:80/live/24659607/01077337/302261.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="Angel TV" tvg-logo="" group-title="IN | TAMIL",Angel TV
+http://ottsolutions.club:80/live/24659607/01077337/302262.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | D2H ETV LIFE" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMGWu39EipjBn-r0vEVyn31mQ.png" group-title="IN | TAMIL",IN-TG | D2H ETV LIFE
+http://ottsolutions.club:80/live/24659607/01077337/59938.m3u8
+#EXTINF:-1 xm-ott="{ID}" tvg-id="" tvg-name="IN-TG | D2H BHAKTI TV" tvg-logo="s:1:/images/6V5xLHhnyAOLE46BPlgdfUYWIDVFRJi0XS-TlwV0UpWoxfpr8FT4_o-3LNNtrAMG4w48eLfpx_xPVo77Y3krDg.png" group-title="IN | TAMIL",IN-TG | D2H BHAKTI TV
+http://ottsolutions.club:80/live/24659607/01077337/59934.m3u8
+
