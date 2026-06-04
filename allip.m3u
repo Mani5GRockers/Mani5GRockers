@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Rolex IPTV" group-title="Live TV",Rolex IPTV
+http://ottsolutions.club:80/get.php?username=24659607&password=01077337&type=m3u_plus&output=ts
